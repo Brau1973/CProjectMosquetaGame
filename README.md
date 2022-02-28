@@ -7,14 +7,21 @@ The project is based on the well-know game "Mosqueta". In the game you have X qu
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 
-Functionalities:
+## Functionalities:
   -Sign Up
+  </br>
   -Log In
+  </br>
   -Log Out
+  </br>
   -Play
+  </br>
   -History of user last 3 matches
+  </br>
   -Ranking of top 5 Best matches (of all registered users)
+  </br>
   -The program cheat you in some turns...
+  </br>
   
 
 
