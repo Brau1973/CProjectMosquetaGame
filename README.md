@@ -9,6 +9,7 @@ The project is based on the well-know game "Mosqueta". In the game you have X qu
 
 ## Objective:
 The goal of develop this project was the use of the principles of programming, such as:
+  </br>
   -If/Else
   </br>
   -While
