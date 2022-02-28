@@ -45,5 +45,17 @@ The goal of develop this project was the use of the principles of programming, s
   -The program cheat you in some turns...
   </br>
   
+  ## Want to try it in Linux?:
+  Run in terminal:
+  </br>
+  sudo apt-get -y update // (This command will allow to update the libraries in the S.O. repositories.)
+  </br>
+  sudo apt-get -y upgrade // (Update the programs to their latest version.)
+  </br>
+  sudo apt-get install build-essential // (It will install the GCC compiler and other development tools.)
+  </br>
+  g++ -o mosqueta MosquetaGame.cpp
+  </br>
+  ./mosqueta
 
 
