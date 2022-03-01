@@ -369,7 +369,7 @@ void razonOrgullo(int razon){
 			break;
 		}
 		case 3:{
-			printf("Si perd� la anterior, de seguro ahora gano\n");
+			printf("Si perdi la anterior, de seguro ahora gano\n");
 			break;
 		}
 	}
@@ -384,8 +384,10 @@ bool apuestaValida(int apuesta){
 		if(apuesta<=saldo)
 			return true;
 		else
+			printf("No tienes suficientes saldo para realizar esta apuesta, intenta otra cantidad\n");
 			return false;
 	}else
+		printf("Debes apostar mas que 0\n");
 		return false;
 }
 
