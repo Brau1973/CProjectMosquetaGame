@@ -20,6 +20,8 @@ The goal of developing this project was the use of the principles of programming
   </br>
   -Switch
   </br>
+  -For
+  </br>
   -Arrays
   </br>
   -Sorting algorithms
