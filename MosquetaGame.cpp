@@ -679,7 +679,7 @@ void jugar(int posUsuario){
 
 
 int main(){
-	printf("\n*--------------------------------------------------------------*\nBienvenido/a, a continuacion comenzaremos a jugar.\nPara cada jugada debes indicar en que copa se encuentra la bola.\nRecuerda que tambien puedes optar por retirarse marcando ''Salir''.\n\n");
+	printf("\n*--------------------------------------------------------------*\nBienvenido/a, a continuacion comenzaremos a jugar.\nPara cada jugada debes indicar en que copa se encuentra la bola seguido de cuanto apuestas.\nRecuerda que tambien puedes optar por retirarte marcando ''Salir'' al momento de responder donde esta la piedra.\n\n");
 	cargaJugadores();
 	menuInicio();
 }
