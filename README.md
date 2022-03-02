@@ -1,4 +1,4 @@
-# CProjectMosquetaGame
+# CProjectMosquetaGame (2018)
 The project is based on the well-known game "Mosqueta". In the game you have X quantity of cups and a hidden rock on one of them, so you make a bet and try to guess where the rock is, if you are right you win money.
 
 It was my first development project at the university (2018), developed with C/C++, a console APP.
